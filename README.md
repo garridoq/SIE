@@ -1,1 +1,3 @@
-# SIE
+# Code for Self-Supervised Learning of Split Invariant Equivariant Representations
+
+Coming soon....
